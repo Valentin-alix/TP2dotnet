@@ -1,0 +1,10 @@
+C:\Users\valen\Documents\DOTNet\TP2DOTnet\TP2\obj\Debug\TP2.csprojAssemblyReference.cache
+C:\Users\valen\Documents\DOTNet\TP2DOTnet\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\DOTNet\TP2DOTnet\TP2\bin\Debug\TP2.exe.config
+C:\Users\valen\Documents\DOTNet\TP2DOTnet\TP2\bin\Debug\TP2.exe
+C:\Users\valen\Documents\DOTNet\TP2DOTnet\TP2\bin\Debug\TP2.pdb
+C:\Users\valen\Documents\DOTNet\TP2DOTnet\TP2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\valen\Documents\DOTNet\TP2DOTnet\TP2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\valen\Documents\DOTNet\TP2DOTnet\TP2\obj\Debug\TP2.csproj.CopyComplete
+C:\Users\valen\Documents\DOTNet\TP2DOTnet\TP2\obj\Debug\TP2.exe
+C:\Users\valen\Documents\DOTNet\TP2DOTnet\TP2\obj\Debug\TP2.pdb
